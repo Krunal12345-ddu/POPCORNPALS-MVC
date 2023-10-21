@@ -6,8 +6,6 @@ Welcome to PopcornPals, your one-stop movie app for exploring a vast collection 
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
 - [Installation and Usage](#installation-and-usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
